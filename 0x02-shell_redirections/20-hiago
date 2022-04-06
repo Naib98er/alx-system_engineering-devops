@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello Can you come are you?" | tr -d c ; echo "Can you help me"| tr -d C
+echo "hello Can you come are you?" | tr -d c | tr -d C
